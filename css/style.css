@@ -1,0 +1,98 @@
+/* Import a few fonts I like */
+
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+  font-family: 'Raleway', 'Times New Roman', serif;
+  background-color: #ffecec;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+h1 {
+  font-family: 'Raleway', 'Arial', sans-serif;
+  font-weight: 900;
+  font-size: 2em;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Raleway', 'Arial', sans-serif;
+  font-weight: 700;
+  font-size: 1.5em;
+  color: #323232;
+}
+
+p {
+  font-family: 'Raleway', 'Helvetica', sans-serif;
+  color: #606060;
+  padding: 5px;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 2rem;
+  max-height: 300px;
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.short-lists {
+  font-family: 'Raleway', 'Helvetica', sans-serif;
+  color: #7f7f7f;
+}
+
+footer {
+  background-color: #d84e4e;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  padding: 1rem;
+  clear: both;
+}
+
+footer p {
+  color: #fff;
+  text-align: center;
+}
+
+#about-class {
+  background-color: #feffd5;
+}
+
+#quick-facts {
+  background-color: #ffe9d5;
+}
+
+#web-experience {
+  background-color: #d5ffd8;
+}
+
+#fav-foods {
+  background-color: #feffd5;
+}
+
+#skydiving {
+  background-color: #ffe9d5;
+}
+
+section {
+  padding: 2rem;
+  margin-top: 1rem;
+  padding-top: 0.5rem;
+  border-radius: 2rem;
+}
+
+.profile {
+  border-radius: 100%;
+  float: left;
+  width: 50%;
+  max-width: 10.5rem;
+  max-height: 10.5rem;
+  padding-right: 3rem;
+  padding-bottom: 1.5rem;
+
+}
+
+.profile-list {
+}
